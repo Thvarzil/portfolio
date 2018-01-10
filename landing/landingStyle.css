@@ -1,0 +1,67 @@
+body{
+    background-image: url("./try2.jpg") !important;
+    background-size: 100%;
+}
+
+#profile{
+    height: 200px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+    border-radius: 50%;
+}
+
+.socialMenu{
+    background-color: #053177;
+}
+
+.socialItem{
+    background-color: #417491;
+}
+
+.socialIcon{
+    width: 100%;
+    height: auto;
+}
+
+.navigator{
+    background-color: #053177;
+    width: 11.7%;
+    text-align: center;
+    /*padding-left: 15px;*/
+    border-radius: 5px;
+
+}
+
+.navigator:hover{
+    text-decoration: none !important;
+    color: white !important;
+    background-color: #052860 !important;
+}
+
+.navigator:active{
+    background-color: #417491 !important;
+}
+
+#projectlink{
+    position:fixed;
+    top: 70%;
+    left: 50%;
+    margin-left: -5.85%;
+}
+
+#biolink{
+    position:fixed;
+    top: 78%;
+    left: 50%;
+    margin-left: -5.85%;
+}
+
+#resumelink{
+    position:fixed;
+    top: 86%;
+    left: 50%;
+    margin-left: -5.85%;
+}

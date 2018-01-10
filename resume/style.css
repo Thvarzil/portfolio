@@ -1,0 +1,62 @@
+body{
+    background-color: #EAF2EF;
+}
+
+.sidebox{
+
+    background-color: #417491;
+    height: 100%;
+
+}
+
+.main{
+    width: 75%;
+    margin-left: 25%;
+    /*height: 100%;*/
+    right: 0px;
+
+}
+
+.main .row{
+    border-bottom: solid black 1px ;
+}
+
+#bio{
+    margin: 0;
+    padding-top: 15%;
+}
+
+#profile{
+    width: 35%;
+    float: left;
+    margin: 25px;
+}
+
+.wrapper{
+    /*width: 100%;*/
+}
+
+.logo{
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+}
+
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    width: 77%;
+    right: 0;
+    height: 7%;
+    background-color: #c6c7c4;
+}
+
+.footer p{
+    padding: 10px;
+}
+/*.button{*/
+    /*margin-left: 30px;*/
+    /*margin-right: 30px;*/
+    /*margin-top: 10px;*/
+/*}*/
