@@ -14,15 +14,31 @@ body{
 }
 
 .socialMenu{
-    background-color: #053177;
+    background-color: rgba(0,0,0,0);
+    border-radius: 0;
+    overflow: visible;
+}
+
+.socialMenu:hover{
+    background-color: rgba(0,0,0,0) !important;
 }
 
 .socialItem{
     background-color: #417491;
 }
 
+.socialItemIcon{
+    width: 100%;
+    height: auto;
+}
+
 .socialIcon{
     width: 100%;
+    height: auto;
+}
+
+.socialIcon:hover{
+    width: 110%;
     height: auto;
 }
 
