@@ -1,5 +1,5 @@
 body{
-    background-color: #EAF2EF;
+    background-color: #e6f7ff;
 }
 
 .sidebox{
@@ -32,6 +32,19 @@ body{
     margin: 25px;
 }
 
+.projectLink{
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    border-radius: 50%;
+}
+
+.linkLogo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
 .wrapper{
     /*width: 100%;*/
 }
@@ -49,7 +62,7 @@ body{
     width: 77%;
     right: 0;
     height: 7%;
-    background-color: #c6c7c4;
+    background-color: #00134d;
 }
 
 .footer p{
