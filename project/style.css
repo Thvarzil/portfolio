@@ -7,13 +7,38 @@ body{
     background-color: #417491;
     height: 100%;
 
+    align-content: center;
+
+}
+
+.divider{
+    /*width: 66%;*/
+    /*height: auto;*/
+}
+
+.socialBtn{
+    float: left;
+    margin-top: 50px;
+
+}
+
+.navSocial{
+    height: inherit !important;
+    width: auto !important;
+
+    border-radius: 50% !important;
+
 }
 
 .main{
     width: 75%;
     margin-left: 25%;
+    padding: 30px;
+    /*padding-left: 30px;*/
     /*height: 100%;*/
     right: 0px;
+
+    background-color: lightgray;
 
 }
 

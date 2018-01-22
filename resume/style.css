@@ -9,6 +9,22 @@ body{
 
 }
 
+
+.socialBtn{
+    float: left;
+    margin-top: 50px;
+
+}
+
+.navSocial{
+    height: inherit !important;
+    width: auto !important;
+
+    border-radius: 50% !important;
+
+}
+
+
 .main{
     width: 75%;
     margin-left: 25%;
